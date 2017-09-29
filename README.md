@@ -20,10 +20,10 @@ sudo apt-get dist-upgrade
 
 sudo ppa-purge
 
-git clone https://github.com/IIBOOSII/ALHAKEM.git
+git clone https://github.com/kaser12/Opama.git
 
 
-cd ALHAKEM
+cd Opama
 
 chmod +x install
 
